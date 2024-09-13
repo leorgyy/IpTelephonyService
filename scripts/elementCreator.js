@@ -1,6 +1,6 @@
 import {
     checkEmptyValue
-} from "./validationHelper.js";
+} from "./validatorHelper.js";
 
 /**
  * Создатель элементов.

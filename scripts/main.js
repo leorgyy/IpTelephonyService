@@ -1,10 +1,10 @@
 import {
     removeInvalidItems,
-} from "../../Task4/scripts/arrayHelper.js";
+} from "./arrayHelper.js";
 
 import {
     getJsonFromFile
-} from "../../Task4/scripts/jsonConverter.js";
+} from "./jsonConverter.js";
 
 import {
     printHelper
@@ -13,7 +13,7 @@ import {
 /**
  * Путь файла.
  */
-const filePath = "../../Task4/files/iptele-log.json"
+const filePath = "./files/iptele-log.json"
 
 printResult(filePath);
 

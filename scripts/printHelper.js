@@ -4,7 +4,7 @@ import {
     getDirectionCallCount,
     getCallFrequency,
     getCallStatistic
-} from "../../Task4/scripts/arrayHelper.js";
+} from "./arrayHelper.js";
 
 import {
     elementCreator
@@ -16,7 +16,7 @@ import {
 
 import { 
     checkEmptyValue 
-} from "./validationHelper.js";
+} from "./validatorHelper.js";
 
 /**
  * Печать на страницу.
